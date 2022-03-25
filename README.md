@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 I'm a beginner in programming! 
+
+- 🌱 I’m currently learning Python, Django, Algorithm and...etc...
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **noggrie21/noggrie21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
