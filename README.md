@@ -4,15 +4,15 @@
 
 #### 	:books: Learnings
 
-##### 			:seedling: Python
+- :seedling: Python
 
-##### 			:seedling: Algorithm(DP...:sob:)
+- :seedling: Algorithm(DP...:sob:)
 
-##### 			:seedling: HTML & CSS
+- :seedling: HTML & CSS
 
-##### 			:seedling: Bootstrap
+- :seedling: Bootstrap
 
-##### 			:seedling: Django
+- :seedling: Django
 
 ​			
 
